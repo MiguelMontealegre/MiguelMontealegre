@@ -13,6 +13,9 @@ Con ganas de mejorar siempre.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMontealegre&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Miguel Montealegre Stats">
 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoachhoubi&layout=compact&theme=dark&bg_color=0A0A0A" alt="Abdo Achhoubi Top Languages"/>
+
+
 ## Ultimos Proyectos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions+%28Manjaro%2C+Endeavour+o+Arch%29&lang=en&timestamp=1669778469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)")](https://www.youtube.com/watch?v=auNMAQxLCjo)
