@@ -1,11 +1,4 @@
-# Miguel Angel Montealegre
-### Full Stack Developer
-
-Con ganas de mejorar siempre.
-
-
-![MiguelMontealegre Status](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelMontealegre&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
-
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Montealegre</h1>
 
 ## 📈 My GitHub Stats and Activity
 
