@@ -1,5 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Montealegre</h1>
 
+
+<p align="center">
+  <em>
+    This is ME, Akash chowrasia, a <b>final year</b> undergraduate from <b>Amritsar college of engineering & technology</b>, amritsar</a>. <br>
+    A budding <b>Full-Stack Software Developer</b>  and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+  </em> 
+  <br>
+  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Learning while HOPING & HUSTLING!!!</i></b> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
+</p>
+
+
 <p>I have extensive experience working in agile environment on several projects as a full stack engineer</p>
 
 ## 📈 My GitHub Stats and Activity
