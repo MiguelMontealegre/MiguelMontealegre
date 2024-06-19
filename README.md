@@ -3,9 +3,8 @@
 
 <p>
   <em>
-    This is ME, Miguel, a final year undergraduate from Tecnological University of pereira of engineering & technology, amritsar</a>. <br>
-    A budding <b>Full-Stack Software Developer</b>  and a <b>Competitive Programming Enthusiast</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
-    with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
+    This is ME, Miguel, a final year undergraduate from Tecnological University of pereira. <br>
+    A budding <b>I have extensive experience working in agile environment on several projects as a full stack developer</b>  and a <b>Competitive Programming Enthusiast
   </em> 
 </p>
 
