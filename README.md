@@ -22,7 +22,8 @@ Con ganas de mejorar siempre.
 
 ## Ultimos Proyectos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions+%28Manjaro%2C+Endeavour+o+Arch%29&lang=en&timestamp=1669778469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)")](https://www.youtube.com/watch?v=auNMAQxLCjo)
+[![Api Authentication Tutorial](https://ytcards.demolab.com/?id=33DN98OPXIA&title=Api+Authentication+Tutorial&lang=en&timestamp=1708894064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Api Authentication Tutorial")](https://www.youtube.com/watch?v=33DN98OPXIA)
+[![Robin AI Solutions](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions&lang=en&timestamp=1708522288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin AI Solutions")](https://www.youtube.com/watch?v=auNMAQxLCjo)
 <!-- END YOUTUBE-CARDS -->
 
 
