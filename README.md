@@ -4,7 +4,11 @@
 Con ganas de mejorar siempre.
 
 
-![DiegPS Status](https://github-readme-stats.vercel.app/api/wakatime?username=diegps&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
+![MiguelMontealegre Status](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelMontealegre&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
+
+
+[![MiguelMontealegre's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMontealegre)](https://github.com/MiguelMontealegre/github-readme-stats)
+
 
 ## Ultimos Proyectos
 <!-- BEGIN YOUTUBE-CARDS -->
