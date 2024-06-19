@@ -7,7 +7,7 @@ Con ganas de mejorar siempre.
 ![MiguelMontealegre Status](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelMontealegre&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
 
 
-[![MiguelMontealegre's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMontealegre)](https://github.com/MiguelMontealegre/github-readme-stats)
+[![MiguelMontealegre's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMontealegre)](https://github.com/MiguelMontealegre/github-readme-stats&show_icons=true)
 
 
 ## Ultimos Proyectos
