@@ -4,7 +4,7 @@
 <p>
   <em>
     This is ME, Miguel, a final year undergraduate from Tecnological University of pereira. <br>
-    A budding I have extensive experience working in agile environment on several projects as a full stack developer  and a Competitive Programming Enthusiast
+    I have extensive experience working in agile environment on several projects as a full stack developer  and a Competitive Programming Enthusiast
   </em> 
 </p>
 
