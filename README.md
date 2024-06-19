@@ -7,13 +7,9 @@ Con ganas de mejorar siempre.
 ![MiguelMontealegre Status](https://github-readme-stats.vercel.app/api/wakatime?username=MiguelMontealegre&api_domain=wakapi.dev&custom_title=Week%20Stats&layout=compact&theme=radical)
 
 
-[![MiguelMontealegre's GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelMontealegre&include_all_commits=true&count_private=true&show_icons=true)](https://github.com/MiguelMontealegre/github-readme-stats)
+## 📈 My GitHub Stats and Activity
 
-
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMontealegre&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Miguel Montealegre Stats">
-
-
+### 💻 Public Stats
 
 <img alt="Berkeli's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=miguelmontealegre&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="Berkeli's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelmontealegre&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
@@ -21,6 +17,8 @@ Con ganas de mejorar siempre.
 
 
 ## Ultimos Proyectos
+
+### Youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Api Authentication Tutorial](https://ytcards.demolab.com/?id=33DN98OPXIA&title=Api+Authentication+Tutorial&lang=en&timestamp=1708894064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Api Authentication Tutorial")](https://www.youtube.com/watch?v=33DN98OPXIA)
 [![Robin AI Solutions](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions&lang=en&timestamp=1708522288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin AI Solutions")](https://www.youtube.com/watch?v=auNMAQxLCjo)
