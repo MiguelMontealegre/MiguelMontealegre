@@ -1,5 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Montealegre</h1>
 
+<p>I have extensive experience working in agile environment on several projects as a full stack engineer</p>
+
 ## 📈 My GitHub Stats and Activity
 
 ### 💻 Public Stats
