@@ -13,7 +13,7 @@ Con ganas de mejorar siempre.
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=MiguelMontealegre&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Miguel Montealegre Stats">
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMontealegre&layout=compact&theme=dark&bg_color=0A0A0A" alt="Miguel Montealegre Top Languages"/>
+
 
 
 ## Ultimos Proyectos
@@ -38,6 +38,9 @@ Con ganas de mejorar siempre.
     <img src="https://skillicons.dev/icons?i=laravel,angular,aws,vue,react,nodejs,git,cpp,css,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,redux,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+<!-- Most Used Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMontealegre&layout=compact&theme=dark&bg_color=0A0A0A" alt="Miguel Montealegre Top Languages"/>
 
 
 <!-- Connect with me -->
