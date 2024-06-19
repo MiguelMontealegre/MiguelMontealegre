@@ -44,8 +44,6 @@ Con ganas de mejorar siempre.
   </a>
 </p>
 
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelMontealegre&layout=compact&theme=dark&bg_color=0A0A0A" alt="Miguel Montealegre Top Languages"/>
 
 
 <!-- Connect with me -->
