@@ -4,13 +4,11 @@
 <p>
   <em>
     This is ME, Miguel, a final year undergraduate from Tecnological University of pereira. <br>
-    A budding <b>I have extensive experience working in agile environment on several projects as a full stack developer</b>  and a <b>Competitive Programming Enthusiast
+    A budding I have extensive experience working in agile environment on several projects as a full stack developer  and a Competitive Programming Enthusiast
   </em> 
 </p>
 
 
-
-<p>I have extensive experience working in agile environment on several projects as a full stack engineer</p>
 
 ## 📈 My GitHub Stats and Activity
 
