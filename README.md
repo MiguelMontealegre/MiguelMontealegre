@@ -8,7 +8,7 @@ Con ganas de mejorar siempre.
 
 ## Ultimos Proyectos
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=INSTALAR+y+CONFIGURAR+Visual+Studio+Code+con+sus+MEJORES+extensiones+%28Manjaro%2C+Endeavour+o+Arch%29&lang=en&timestamp=1669778469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)")](https://www.youtube.com/watch?v=auNMAQxLCjo)
+[![Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+y+AI+Solutions+%28Manjaro%2C+Endeavour+o+Arch%29&lang=en&timestamp=1669778469&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Robin AI Solutions (Machine Learning, Laravel, Angular, AWS)")](https://www.youtube.com/watch?v=auNMAQxLCjo)
 <!-- END YOUTUBE-CARDS -->
 
 
