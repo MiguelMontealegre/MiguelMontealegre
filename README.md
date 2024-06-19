@@ -5,7 +5,7 @@
   <em>
     This is ME, Miguel, a final year undergraduate from Tecnological University of pereira. <br>
     I have extensive experience working in agile environment on several projects as a Machine learning & Web full stack & Mobile Developer.
-    Also a Competitive Programming Enthusiast
+    Also a Competitive Programming Enthusiast. my strengths are Laravel, Angular, AWS, Machine Learning, Vuejs, React, Nodejs and much more. 
   </em> 
 </p>
 
