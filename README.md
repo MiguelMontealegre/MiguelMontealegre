@@ -5,7 +5,7 @@
   <em>
     Im based in Pereira Colombia. <br>
     I have extensive experience working in agile environment on several projects as a Machine learning & Web full stack & Mobile Developer.
-    Also a Competitive Programming Enthusiast. my strengths are Laravel, Angular, AWS, Machine Learning, Vuejs, React, Nodejs and much more. 
+    Also a Competitive Programming Enthusiast. my strengths are Laravel, Angular, React, Express, AWS, Machine Learning, Vuejs and much more. 
   </em> 
 </p>
 
