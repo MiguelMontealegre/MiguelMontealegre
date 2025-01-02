@@ -4,8 +4,9 @@
 <p>
   <em>
     Im based in Pereira Colombia. <br>
-    I have extensive experience working in agile environment on several projects as a Machine learning & Web full stack & Mobile Developer.
-    Also a Competitive Programming Enthusiast. my strengths are Laravel, Angular, React, Express, AWS, Machine Learning, Vuejs and much more. 
+    Senior Software Engineer with extensive experience in software development, I have consistently delivered impactful solutions across a range of industries. My expertise spans full-stack development, machine learning, and DevOps, where I have successfully designed and implemented scalable, high-performance systems that address complex technical challenges.
+<br>
+I specialize in architecting end-to-end solutions, building robust backend services, creating dynamic front-end interfaces, and leveraging cutting-edge machine learning techniques to innovate and optimize workflows.
   </em> 
 </p>
 
