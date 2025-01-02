@@ -1,9 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel Montealegre</h1>
+<h1 align="center">Hello! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Miguel</h1>
 
 
 <p>
   <em>
-    Hello! I'm based in Pereira Colombia 🇨🇴<br>
+    I'm based in Pereira Colombia 🇨🇴<br>
     I'm a Senior Software Engineer with extensive experience in software development, I have consistently delivered impactful solutions across a range of industries. My expertise spans full-stack development, machine learning, and DevOps, where I have successfully designed and implemented scalable, high-performance systems that address complex technical challenges.
 <br><br>
 I specialize in architecting end-to-end solutions, building robust backend services, creating dynamic front-end interfaces, and leveraging cutting-edge machine learning techniques to innovate and optimize workflows.
