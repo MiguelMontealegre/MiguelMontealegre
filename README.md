@@ -43,7 +43,7 @@ I specialize in architecting end-to-end solutions, building robust backend servi
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=laravel,angular,aws,vue,react,nodejs,git,cpp,css,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,redux,tailwind,ts,vscode,kubernetes,astro,azure,bash,cs,cloudflare,debian,dart,flutter,flask,graphql,kali,nestjs,nextjs&perline=14" />
+    <img src="https://skillicons.dev/icons?i=laravel,angular,aws,vue,react,nodejs,git,cpp,css,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,redux,tailwind,ts,vscode,kubernetes,astro,azure,bash,cs,cloudflare,debian,dart,flutter,flask,graphql,kali,nestjs,nextjs,svelte,vite,pytorch&perline=14" />
   </a>
 </p>
 
