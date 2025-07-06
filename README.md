@@ -25,10 +25,9 @@ I specialize in architecting end-to-end solutions, building robust backend servi
 
 ### 🔥 Youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Robin: Transforma tu negocio con IA 🚀 | Agentes de llamadas y flujos automatizados](https://ytcards.demolab.com/?id=AOTgkXpA0TQ&title=Robin%3A+Transforma+tu+negocio+con+IA+%F0%9F%9A%80+%7C+Agentes+de+llamadas+y+flujos+automatizados&lang=en&timestamp=1746022733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin: Transforma tu negocio con IA 🚀 | Agentes de llamadas y flujos automatizados")](https://www.youtube.com/watch?v=AOTgkXpA0TQ)
 [![Api Authentication Tutorial](https://ytcards.demolab.com/?id=33DN98OPXIA&title=Api+Authentication+Tutorial&lang=en&timestamp=1708894064&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Api Authentication Tutorial")](https://www.youtube.com/watch?v=33DN98OPXIA)
 [![Robin AI Solutions](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions&lang=en&timestamp=1708522288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin AI Solutions")](https://www.youtube.com/watch?v=auNMAQxLCjo)
-[![Robin AI Voice](https://ytcards.demolab.com/?id=auNMAQxLCjo&title=Robin+AI+Solutions&lang=en&timestamp=1708522288&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin AI Voice")](https://www.youtube.com/watch?v=AOTgkXpA0TQ)
-
 <!-- END YOUTUBE-CARDS -->
 
 
