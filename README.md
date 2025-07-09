@@ -22,7 +22,6 @@ I specialize in architecting end to end solutions, building robust backend servi
 ## 🔭 Last Projects
 
 
-
 ### 🔥 Youtube videos
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Robin: Transforma tu negocio con IA 🚀 | Agentes de llamadas y flujos automatizados](https://ytcards.demolab.com/?id=AOTgkXpA0TQ&title=Robin%3A+Transforma+tu+negocio+con+IA+%F0%9F%9A%80+%7C+Agentes+de+llamadas+y+flujos+automatizados&lang=en&timestamp=1746022733&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Robin: Transforma tu negocio con IA 🚀 | Agentes de llamadas y flujos automatizados")](https://www.youtube.com/watch?v=AOTgkXpA0TQ)
