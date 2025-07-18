@@ -44,7 +44,6 @@ I specialize in architecting end to end solutions, building robust backend servi
   </a>
 </p>
 
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
 <div id="user-content-toc">
