@@ -23,8 +23,6 @@ I specialize in architecting end to end solutions, building robust backend servi
 
 
 
-
-
 ## 🔭 Last Projects
 
 
